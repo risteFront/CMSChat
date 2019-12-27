@@ -11,5 +11,5 @@
 
 To see a Design visit [Dribbble](https://dribbble.com/shots/8413072/attachments/727080?mode=media)
 
-To see a live demo visit [Heroku] 
+To see a live demo visit this [link](https://riste-spaseski-93162.herokuapp.com/)
 
